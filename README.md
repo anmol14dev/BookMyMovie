@@ -8,6 +8,16 @@ BookMyMovie is an Android application that allows users to browse and search for
 - Search for movies based on a query
 - View detailed information about a selected movie
 - Light and dark theme support
+  
+## Screenshots
+
+<img src = "https://github.com/user-attachments/assets/060cc93c-8eb0-41aa-b071-09aae17a9a9e" width=200/>
+<img src="https://github.com/user-attachments/assets/f0dd7ccb-8204-4261-a2e3-b0daab09e90e" alt="Screenshot20240828035619BookMyMovie" width=200></img> 
+<img src="https://github.com/user-attachments/assets/247e240f-60b8-4eca-9857-18eb609b2ee7" alt="Screenshot20240828031819BookMyMovie" width=200></img> 
+<img src="https://github.com/user-attachments/assets/2ddc4a6d-94ab-4d93-b844-a97c44cf0cec" alt="Screenshot20240828031814BookMyMovie" width=200></img> 
+<img src="https://github.com/user-attachments/assets/f0d45813-4c1a-42aa-8ca9-85ae8d614aff" alt="Screenshot20240828031803BookMyMovie" width=200></img> 
+<img src="https://github.com/user-attachments/assets/9c8eced3-f076-4e8c-bdd0-49df5cc009e6" alt="Screenshot20240828031750BookMyMovie" width=200></img> 
+<img src="https://github.com/user-attachments/assets/f4866311-01af-4147-8453-4fc2138b180d" alt="Screenshot20240828031743BookMyMovie" width=200></img>
 
 ## Tech Stack
 
@@ -78,5 +88,7 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 - [Gson](https://github.com/google/gson)
 
 ---
+
+
 
 Feel free to customize this README file according to your project's specific details and requirements.

@@ -9,6 +9,11 @@ BookMyMovie is an Android application that allows users to browse and search for
 - View detailed information about a selected movie
 - Light and dark theme support
   
+## APK
+app_debug apk is present.
+## API 
+Used "https://freetestapi.com/apis/movies" . Api service.
+
 ## Screenshots
 
 <img src = "https://github.com/user-attachments/assets/060cc93c-8eb0-41aa-b071-09aae17a9a9e" width=200/>
@@ -27,7 +32,7 @@ BookMyMovie is an Android application that allows users to browse and search for
 - **Coroutines**: For managing background threads with simplified code and reducing needs for callbacks.
 - **Retrofit**: Type-safe HTTP client for Android and Java.
 - **Gson**: For JSON serialization and deserialization.
--**Coil**: For image loading
+- **Coil**: For image loading
 
 ## Architecture
 

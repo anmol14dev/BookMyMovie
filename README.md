@@ -27,6 +27,7 @@ BookMyMovie is an Android application that allows users to browse and search for
 - **Coroutines**: For managing background threads with simplified code and reducing needs for callbacks.
 - **Retrofit**: Type-safe HTTP client for Android and Java.
 - **Gson**: For JSON serialization and deserialization.
+-**Coil**: For image loading
 
 ## Architecture
 

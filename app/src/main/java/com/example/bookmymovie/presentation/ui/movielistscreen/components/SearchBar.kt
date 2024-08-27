@@ -18,6 +18,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.unit.dp
+import com.example.bookmymovie.presentation.ui.theme.BookMyMovieTheme
 import com.example.bookmymovie.utils.Constants
 
 @Composable
@@ -33,7 +34,7 @@ fun SearchBar(
         modifier = Modifier
             .fillMaxWidth()
             .padding(8.dp)
-            .border(1.dp, MaterialTheme.colorScheme.tertiaryContainer,  RoundedCornerShape(8.dp)),
+            .border(1.dp,borderColor,RoundedCornerShape(8.dp)),
         placeholder = {
             Text(text = Constants.SEARCH_HINT)
         },
